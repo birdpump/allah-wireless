@@ -9,7 +9,6 @@
         flex: 1;
         flex-direction: column;
         height: 100vh;
-        /*overflow: hidden;*/
     }
 
     .carousel {
@@ -23,7 +22,7 @@
     <div class="carousel">
         <Carousel
                 autoplay
-                autoplayDuration={4500}
+                autoplayDuration={3500}
                 arrows={false}
                 swiping={false}
                 dots={false}
@@ -31,15 +30,15 @@
 
             <CarouselItem imageUrl="/allah.jpg" text="We are Allah Wireless Communications"/>
 
-            <CarouselItem imageUrl="/allah2.jpeg" text="Delivering impeccable coverage to over 5M customers"/>
-
             <CarouselItem imageUrl="/microwave.jpg" text="Advanced Terrestrial Microwave services"/>
+
+            <CarouselItem imageUrl="/data.jpg" text="24/7 Proven reliability"/>
 
             <CarouselItem imageUrl="/5g.jpg" text="High speed 5G technology"/>
 
             <CarouselItem imageUrl="/tower.jpg" text="Tallest towers in the west coast"/>
 
-            <CarouselItem imageUrl="/data.jpg" text="24/7 Proven reliability"/>
+            <CarouselItem imageUrl="/allah2.jpeg" text="Delivering impeccable coverage to over 5M customers"/>
 
         </Carousel>
     </div>

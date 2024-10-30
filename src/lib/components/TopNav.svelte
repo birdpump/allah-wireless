@@ -145,17 +145,17 @@
         <div class="top-navigation">
             <div class="logo-cont">
                 <div class="top-text">Allah Wireless</div>
-                <a href="/"><img alt="cv logo" class="logo" loading="eager" rel="preload" src="/wifi.svg"/></a>
+                <a href="/"><img alt="logo" class="logo" loading="eager" rel="preload" src="/wifi.svg"/></a>
             </div>
 
             <div class="navigation-links">
                 <a href="/" class="nav-link">Home</a>
 
-                <a href="/orgs" class="nav-link">About</a>
+                <a href="/about" class="nav-link">About</a>
 
-                <a href="/help" class="nav-link">Our Services</a>
+                <a href="/services" class="nav-link">Our Services</a>
 
-                <a href="/register" class="nav-link">Get in touch</a>
+                <a href="/contact" class="nav-link">Get in touch</a>
 
             </div>
         </div>
