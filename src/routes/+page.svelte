@@ -1,6 +1,7 @@
 <script>
     import Carousel from 'svelte-carousel'
     import CarouselItem from "$lib/components/CarouselItem.svelte";
+    import VideoItem from "$lib/components/VideoItem.svelte";
 </script>
 
 <style>
@@ -23,12 +24,11 @@
         <Carousel
                 arrows={false}
                 autoplay
-                autoplayDuration={3500}
+                autoplayDuration={4500}
                 dots={false}
                 swiping={false}
         >
-
-            <CarouselItem imageUrl="/main.jpg" text="We Are Allah Wireless Communications"/>
+            <VideoItem videoUrl="/video1.mp4" text="We Are Allah Wireless Communications"/>
 
             <CarouselItem imageUrl="/connect.jpg" text="Pioneering the Future of Communication"/>
 
@@ -36,9 +36,14 @@
 
             <CarouselItem imageUrl="/data.jpg" text="24/7 Proven Reliability"/>
 
+<!--            <VideoItem videoUrl="/server.mp4" text="24/7 Proven Reliability"/>-->
+
+
             <CarouselItem imageUrl="/5g.jpg" text="High-Speed 5G Technology"/>
 
             <CarouselItem imageUrl="/tower.jpg" text="Tallest Towers on the West Coast"/>
+
+            <VideoItem videoUrl="/tech.mp4" text="Highly skilled engineering team"/>
 
             <CarouselItem imageUrl="/networks.jpg" text="Smart Networks Today for Tomorrows Solutions"/>
 
