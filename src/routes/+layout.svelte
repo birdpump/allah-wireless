@@ -16,6 +16,13 @@
     }
 </style>
 
+<svelte:head>
+    <title>Allah Wireless</title>
+
+    <meta name="description" content="Allah Wireless Communications offers impeccable coverage, high-speed 5G, and advanced communications services to millions.">
+    <meta name="keywords" content="Allah Wireless, allah wireless, allah wireless communications, wireless communication, 5G, microwave services, telecom, coverage, reliable internet">
+</svelte:head>
+
 <div class="layout-main">
     <TopNav/>
     <slot/>
