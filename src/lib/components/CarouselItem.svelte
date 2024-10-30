@@ -26,6 +26,21 @@
         text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.8);
     }
 
+    @media only screen and (max-width: 600px) {
+        .carousel-element {
+            height: 100vh;
+        }
+
+        .carousel-text {
+            font-weight: bold;
+            font-size: 40px;
+            text-align: center;
+            color: white;
+            text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.8);
+        }
+
+    }
+
     img {
         width: 100%;
         height: 100%;
