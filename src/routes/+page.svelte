@@ -43,7 +43,7 @@
 
             <CarouselItem imageUrl="/tower.jpg" text="Tallest Towers on the West Coast"/>
 
-            <VideoItem videoUrl="/tech.mp4" text="Highly skilled engineering team"/>
+<!--            <VideoItem videoUrl="/tech.mp4" text="Highly skilled engineering team"/>-->
 
             <CarouselItem imageUrl="/networks.jpg" text="Smart Networks Today for Tomorrows Solutions"/>
 
