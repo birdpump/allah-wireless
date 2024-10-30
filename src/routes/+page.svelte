@@ -34,16 +34,13 @@
 
             <CarouselItem imageUrl="/microwave.jpg" text="Advanced Terrestrial Microwave Services"/>
 
-            <CarouselItem imageUrl="/data.jpg" text="24/7 Proven Reliability"/>
-
-<!--            <VideoItem videoUrl="/server.mp4" text="24/7 Proven Reliability"/>-->
-
+            <CarouselItem imageUrl="/data.jpg" text="24/7 Field Proven Reliability"/>
 
             <CarouselItem imageUrl="/5g.jpg" text="High-Speed 5G Technology"/>
 
             <CarouselItem imageUrl="/tower.jpg" text="Tallest Towers on the West Coast"/>
 
-<!--            <VideoItem videoUrl="/tech.mp4" text="Highly skilled engineering team"/>-->
+            <VideoItem videoUrl="/radio.mp4" text="Bridging Distances Farther Than Ever Before"/>
 
             <CarouselItem imageUrl="/networks.jpg" text="Smart Networks Today for Tomorrows Solutions"/>
 
