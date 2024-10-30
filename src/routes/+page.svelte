@@ -21,26 +21,28 @@
 <div class="main-container">
     <div class="carousel">
         <Carousel
+                arrows={false}
                 autoplay
                 autoplayDuration={3500}
-                arrows={false}
-                swiping={false}
                 dots={false}
+                swiping={false}
         >
 
-            <CarouselItem imageUrl="/allah.jpg" text="We are Allah Wireless Communications"/>
+            <CarouselItem imageUrl="/main.jpg" text="We Are Allah Wireless Communications"/>
 
-            <CarouselItem imageUrl="/microwave.jpg" text="Advanced Terrestrial Microwave services"/>
+            <CarouselItem imageUrl="/connect.jpg" text="Pioneering the Future of Communication"/>
 
-            <CarouselItem imageUrl="/data.jpg" text="24/7 Proven reliability"/>
+            <CarouselItem imageUrl="/microwave.jpg" text="Advanced Terrestrial Microwave Services"/>
 
-            <CarouselItem imageUrl="/5g.jpg" text="High speed 5G technology"/>
+            <CarouselItem imageUrl="/data.jpg" text="24/7 Proven Reliability"/>
 
-            <CarouselItem imageUrl="/tower.jpg" text="Tallest towers in the west coast"/>
+            <CarouselItem imageUrl="/5g.jpg" text="High-Speed 5G Technology"/>
 
-            <CarouselItem imageUrl="/allah2.jpeg" text="Delivering impeccable coverage to over 5M customers"/>
+            <CarouselItem imageUrl="/tower.jpg" text="Tallest Towers on the West Coast"/>
 
+            <CarouselItem imageUrl="/networks.jpg" text="Smart Networks Today for Tomorrows Solutions"/>
+
+            <CarouselItem imageUrl="/allah2.jpeg" text="Delivering Impeccable Coverage to Over 5M Customers"/>
         </Carousel>
     </div>
-
 </div>
