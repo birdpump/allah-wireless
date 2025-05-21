@@ -28,7 +28,7 @@
                 dots={false}
                 swiping={false}
         >
-            <VideoItem videoUrl="/video1.mp4" text="We Are Allah Wireless Communications"/>
+            <VideoItem videoUrl="https://d1bz9hu881c3qi.cloudfront.net/sites/video1.mp4" text="We Are Allah Wireless Communications"/>
 
             <CarouselItem imageUrl="/connect.jpg" text="Pioneering the Future of Communication"/>
 
@@ -40,7 +40,7 @@
 
             <CarouselItem imageUrl="/tower.jpg" text="Tallest Towers on the West Coast"/>
 
-            <VideoItem videoUrl="/radio.mp4" text="Bridging Distances Farther Than Ever Before"/>
+            <VideoItem videoUrl="https://d1bz9hu881c3qi.cloudfront.net/sites/radio.mp4" text="Bridging Distances Farther Than Ever Before"/>
 
             <CarouselItem imageUrl="/networks.jpg" text="Smart Networks Today for Tomorrows Solutions"/>
 
